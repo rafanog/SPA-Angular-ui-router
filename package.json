@@ -1,0 +1,24 @@
+{
+  "name": "spa-angular-ui-router",
+  "version": "1.0.0",
+  "description": "Simple demonstration of angular.js and angular-ui router in a hello world way",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafanog/spa-angular-ui-router.git"
+  },
+  "keywords": [
+    "angular",
+    "angular-ui-router",
+    "hello-world"
+  ],
+  "author": "Rafael Noguera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafanog/spa-angular-ui-router/issues"
+  },
+  "homepage": "https://github.com/rafanog/spa-angular-ui-router#readme"
+}
